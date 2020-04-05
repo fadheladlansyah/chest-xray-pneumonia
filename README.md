@@ -13,3 +13,4 @@ __:wrench: *Tools*__
 __:file_folder: *Documentation*__
 
 1. __Exploratory Data Analysis:__ [go to .ipynb file](https://github.com/fadheladlansyah/chest-xray-pneumonia/blob/master/eda.ipynb)
+2. __Google Slides:__ [go to slide](https://drive.google.com/open?id=1u1PZhN7cfs3_Hdl2AuSDetBI3CdDDbc3sUKLUnql97c)
